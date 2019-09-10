@@ -1,0 +1,8 @@
+speech recognition
+webbrowser
+pyttsx3
+tkinter
+os
+datetime
+requests
+PyDictionary
